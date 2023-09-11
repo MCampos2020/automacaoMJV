@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioAutomacaoMJVCreateAccount", "DesafioAutomacaoMJVCreateAccount.csproj", "{56023F3A-5907-4D8D-BE7A-3EEBBC88F651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56023F3A-5907-4D8D-BE7A-3EEBBC88F651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56023F3A-5907-4D8D-BE7A-3EEBBC88F651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56023F3A-5907-4D8D-BE7A-3EEBBC88F651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56023F3A-5907-4D8D-BE7A-3EEBBC88F651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB433F62-ABEB-4DAE-BD45-A03B75F8263D}
+	EndGlobalSection
+EndGlobal
